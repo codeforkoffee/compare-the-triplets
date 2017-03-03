@@ -46,4 +46,4 @@ a0 > b0, so Alice receives  point.
 a1 = b1, so nobody receives a point.
 
 a2 < b2, so Bob receives  point.
-Alice's comparison score is , and Bob's comparison score is . Thus, we print 1 1 (Alice's comparison score followed by Bob's comparison score) on a single line.
+Alice's comparison score is 1, and Bob's comparison score is 1. Thus, we print 1 1 (Alice's comparison score followed by Bob's comparison score) on a single line.
