@@ -35,7 +35,7 @@ Explanation
 
 In this example:
 
-A = (a0,a1,a2) = (5,6,7)
+A = (a0,a1,a2) = (5,6,7),
 B = (b0,b1,b2) = (3,6,10)
 
 Now, let's compare each individual score:
