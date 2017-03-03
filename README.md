@@ -35,12 +35,15 @@ Explanation
 
 In this example:
 
-A = (a0,a1,a2) = (5,6,7),
+A = (a0,a1,a2) = (5,6,7)
+
 B = (b0,b1,b2) = (3,6,10)
 
 Now, let's compare each individual score:
 
-, so Alice receives  point.
-, so nobody receives a point.
-, so Bob receives  point.
+a0 > b0, so Alice receives  point.
+
+a1 = b1, so nobody receives a point.
+
+a2 < b2, so Bob receives  point.
 Alice's comparison score is , and Bob's comparison score is . Thus, we print 1 1 (Alice's comparison score followed by Bob's comparison score) on a single line.
